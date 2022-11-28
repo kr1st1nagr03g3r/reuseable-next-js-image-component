@@ -82,7 +82,7 @@ export default function Home() {
           width={400}
           header="Deadly Raptors"
           content="Parrots, also known as psittacines (/ˈsɪtəsaɪnz/), are birds of the roughly 398 species in 92 genera comprising the order Psittaciformes (/ˈsɪtəsɪfɔːrmiːz/), found mostly in tropical and subtropical regions. The order is subdivided into three superfamilies: the Psittacoidea true parrots, the Cacatuoidea (cockatoos), and the Strigopoidea (New Zealand parrots). One-third of all parrot species are threatened by extinction, with higher aggregate extinction risk (IUCN Red List Index) than any other comparable bird group. Parrots have a generally pantropical distribution with several species inhabiting temperate regions in the Southern Hemisphere, as well. The greatest diversity of parrots is in South America and Australasia."
-          buttonLink="https://en.wikipedia.org/wiki/Peregrine_falcon"
+          buttonLink="https://en.wikipedia.org/wiki/Parrot"
           buttonContent="Learn More on Wikipedia"
         />
       </div>
